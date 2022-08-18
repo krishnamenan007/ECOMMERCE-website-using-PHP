@@ -1,0 +1,1 @@
+<h2 class="text-danger text-center">No Payments Yet</h2>
